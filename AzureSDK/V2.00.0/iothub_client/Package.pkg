@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.7.12 SP?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">blob.h</Object>
+    <Object Type="File">iothub_client.h</Object>
+    <Object Type="File">iothub_client_options.h</Object>
+    <Object Type="File">iothub_client_ll.h</Object>
+    <Object Type="File">iothub_client_ll_uploadtoblob.h</Object>
+    <Object Type="File">iothub_client_private.h</Object>
+    <Object Type="File">iothub_client_version.h</Object>
+    <Object Type="File">iothub_message.h</Object>
+    <Object Type="File">iothub_transport_ll.h</Object>
+    <Object Type="File">iothubtransport.h</Object>
+    <Object Type="File">iothubtransportamqp.h</Object>
+    <Object Type="File">iothubtransport_amqp_common.h</Object>
+    <Object Type="File">iothubtransportamqp_auth.h</Object>
+    <Object Type="File">iothubtransportamqp_methods.h</Object>
+    <Object Type="File">uamqp_messaging.h</Object>
+  </Objects>
+</Package>

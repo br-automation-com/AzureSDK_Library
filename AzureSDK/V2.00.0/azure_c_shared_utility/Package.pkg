@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.7.12 SP?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">agenttime.h</Object>
+    <Object Type="File">base64.h</Object>
+    <Object Type="File">buffer_.h</Object>
+    <Object Type="File">condition.h</Object>
+    <Object Type="File">connection_string_parser.h</Object>
+    <Object Type="File">consolelogger.h</Object>
+    <Object Type="File">constbuffer.h</Object>
+    <Object Type="File">constmap.h</Object>
+    <Object Type="File">crt_abstractions.h</Object>
+    <Object Type="File">doublylinkedlist.h</Object>
+    <Object Type="File">gb_stdio.h</Object>
+    <Object Type="File">gb_time.h</Object>
+    <Object Type="File">gballoc.h</Object>
+    <Object Type="File">hmac.h</Object>
+    <Object Type="File">hmacsha256.h</Object>
+    <Object Type="File">httpapi.h</Object>
+    <Object Type="File">httpapiex.h</Object>
+    <Object Type="File">httpapiexsas.h</Object>
+    <Object Type="File">httpheaders.h</Object>
+    <Object Type="File">lock.h</Object>
+    <Object Type="File">macro_utils.h</Object>
+    <Object Type="File">map.h</Object>
+    <Object Type="File">optionhandler.h</Object>
+    <Object Type="File">platform.h</Object>
+    <Object Type="File">refcount.h</Object>
+    <Object Type="File">sastoken.h</Object>
+    <Object Type="File">sha.h</Object>
+    <Object Type="File">sha-private.h</Object>
+    <Object Type="File">shared_util_options.h</Object>
+    <Object Type="File">singlylinkedlist.h</Object>
+    <Object Type="File">socketio.h</Object>
+    <Object Type="File">string_tokenizer.h</Object>
+    <Object Type="File">strings.h</Object>
+    <Object Type="File">threadapi.h</Object>
+    <Object Type="File">tickcounter.h</Object>
+    <Object Type="File">tlsio.h</Object>
+    <Object Type="File">tlsio_openssl.h</Object>
+    <Object Type="File">umock_c_prod.h</Object>
+    <Object Type="File">uniqueid.h</Object>
+    <Object Type="File">urlencode.h</Object>
+    <Object Type="File">vector.h</Object>
+    <Object Type="File">x509_openssl.h</Object>
+    <Object Type="File">xio.h</Object>
+    <Object Type="File">xlogging.h</Object>
+  </Objects>
+</Package>

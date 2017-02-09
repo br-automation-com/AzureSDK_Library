@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.7.12 SP?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">amqp_definitions.h</Object>
+    <Object Type="File">amqp_frame_codec.h</Object>
+    <Object Type="File">amqp_management.h</Object>
+    <Object Type="File">amqp_types.h</Object>
+    <Object Type="File">amqpalloc.h</Object>
+    <Object Type="File">amqpvalue.h</Object>
+    <Object Type="File">amqpvalue_to_string.h</Object>
+    <Object Type="File">cbs.h</Object>
+    <Object Type="File">connection.h</Object>
+    <Object Type="File">frame_codec.h</Object>
+    <Object Type="File">header_detect_io.h</Object>
+    <Object Type="File">link.h</Object>
+    <Object Type="File">message.h</Object>
+    <Object Type="File">message_receiver.h</Object>
+    <Object Type="File">message_sender.h</Object>
+    <Object Type="File">messaging.h</Object>
+    <Object Type="File">sasl_anonymous.h</Object>
+    <Object Type="File">sasl_frame_codec.h</Object>
+    <Object Type="File">sasl_mechanism.h</Object>
+    <Object Type="File">sasl_mssbcbs.h</Object>
+    <Object Type="File">sasl_plain.h</Object>
+    <Object Type="File">saslclientio.h</Object>
+    <Object Type="File">session.h</Object>
+    <Object Type="File">socket_listener.h</Object>
+  </Objects>
+</Package>

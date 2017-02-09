@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.7.12 SP?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">agenttypesystem.h</Object>
+    <Object Type="File">codefirst.h</Object>
+    <Object Type="File">commanddecoder.h</Object>
+    <Object Type="File">datamarshaller.h</Object>
+    <Object Type="File">datapublisher.h</Object>
+    <Object Type="File">dataserializer.h</Object>
+    <Object Type="File">iotdevice.h</Object>
+    <Object Type="File">jsondecoder.h</Object>
+    <Object Type="File">jsonencoder.h</Object>
+    <Object Type="File">methodreturn.h</Object>
+    <Object Type="File">multitree.h</Object>
+    <Object Type="File">schema.h</Object>
+    <Object Type="File">schemalib.h</Object>
+    <Object Type="File">schemaserializer.h</Object>
+    <Object Type="File">serializer.h</Object>
+    <Object Type="File">serializer_devicetwin.h</Object>
+  </Objects>
+</Package>

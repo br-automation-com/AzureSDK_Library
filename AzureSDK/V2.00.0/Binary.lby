@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.7.12 SP?>
+<Library Version="2.00.0" xmlns="http://br-automation.co.at/AS/Library">
+  <Objects>
+    <Object Type="File">AzureSDK.fun</Object>
+    <Object Type="Package">azure_uamqp_c</Object>
+    <Object Type="Package">azure_c_shared_utility</Object>
+    <Object Type="Package">iothub_client</Object>
+    <Object Type="Package">serializer</Object>
+    <Object Type="Package">ar</Object>
+    <Object Type="File">parson.h</Object>
+    <Object Type="File">certs.h</Object>
+  </Objects>
+  <Dependencies>
+    <Dependency ObjectName="ArEventLog" />
+    <Dependency ObjectName="astime" />
+    <Dependency ObjectName="MpCom" />
+    <Dependency ObjectName="AsIecCon" FromVersion="0.00.0" />
+  </Dependencies>
+</Library>
