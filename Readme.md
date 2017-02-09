@@ -1,11 +1,11 @@
-# AzureSDK_PUBLIC
+# AzureSDK_Library
 ---
 platform: Automation Runtime 4.27
 device: X20CP1586
 language: c
 ---
 
-Run a simple AMQP sample on X20CP1586 device running Automation Runtime 4.27
+Run a simple AMQP sample on a X20CP1586 PLC using AzureSDK and Automation Runtime 4.27
 ===
 ---
 
